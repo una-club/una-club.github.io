@@ -1,3 +1,4 @@
 [submodule "una-newsletter"]
 	path = una-newsletter
-	url = https://github.com/una-club/una-newsletter.git
+  url = https://github.com/una-club/una-newsletter.git
+  branch = develop
