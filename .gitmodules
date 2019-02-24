@@ -2,3 +2,6 @@
 	path = una-newsletter
   url = https://github.com/una-club/una-newsletter.git
   branch = develop
+[submodule "regataiades-website-2019"]
+	path = regataiades-website-2019
+	url = https://github.com/una-club/regataiades-website-2019.git
